@@ -6,7 +6,7 @@ ShapeAnalyzer-Shape Analysis and Description Methods
 * [pyvoronoi](https://github.com/Voxel8/pyvoronoi)
 
 ## ShapeAnalyzer Illustrations
-[ShapeAnalyzer-Shape Analysis and Description Methods.ipynb](ShapeAnalyzer-Shape Analysis and Description Methods.ipynb)
+[ShapeAnalyzer-Shape Analysis and Description Methods.ipynb](https://github.com/geoinsights/ShapeAnalyzer/blob/master/ShapeAnalyzer-Shape%20Analysis%20and%20Description%20Methods.ipynb)
 * Shape Representations
 ![](figures/shaperepr.png) 
 
